@@ -1,0 +1,142 @@
+Timestamp,Message,message_length,word_count,anomaly_score,is_anomaly,anomaly_label
+2026-08-25 02:34:08,"Starting Lynis 3.1.6 with PID 64072, build date 2025-10-22",58,9,0.1667804172586118,1,Normal
+2026-08-25 02:34:08,====,4,1,0.0,1,Normal
+2026-08-25 02:34:08,"### 2007-2025, CISOfy - https://cisofy.com/lynis/ ###",53,6,0.1804874173426289,1,Normal
+2026-08-25 02:34:08,Checking permissions of /usr/share/lynis/include/profiles,57,4,0.10718130525636627,1,Normal
+2026-08-25 02:34:08,File permissions are OK,23,4,0.06271533046837585,1,Normal
+2026-08-25 02:34:08,Reading profile/configuration /etc/lynis/default.prf,52,3,0.15231837164704576,1,Normal
+2026-08-25 02:34:08,Action: created temporary file /tmp/lynis.TiX6jvyCto,52,5,0.11282042105077539,1,Normal
+2026-08-25 02:34:08,Language set via profile to '',30,6,0.039638394348265105,1,Normal
+2026-08-25 02:34:08,Plugin 'authentication' enabled according profile (/etc/lynis/default.prf),74,6,0.2009664941381088,1,Normal
+2026-08-25 02:34:08,Plugin 'compliance' enabled according profile (/etc/lynis/default.prf),70,6,0.21341701043317612,1,Normal
+2026-08-25 02:34:09,Plugin 'configuration' enabled according profile (/etc/lynis/default.prf),73,6,0.19247871317255022,1,Normal
+2026-08-25 02:34:09,Plugin 'control-panels' enabled according profile (/etc/lynis/default.prf),74,6,0.2009664941381088,1,Normal
+2026-08-25 02:34:09,Plugin 'crypto' enabled according profile (/etc/lynis/default.prf),66,6,0.2439361243300418,1,Normal
+2026-08-25 02:34:09,Plugin 'dns' enabled according profile (/etc/lynis/default.prf),63,6,0.2151212763505545,1,Normal
+2026-08-25 02:34:09,Plugin 'docker' enabled according profile (/etc/lynis/default.prf),66,6,0.2439361243300418,1,Normal
+2026-08-25 02:34:09,Plugin 'file-integrity' enabled according profile (/etc/lynis/default.prf),74,6,0.2009664941381088,1,Normal
+2026-08-25 02:34:09,Plugin 'file-systems' enabled according profile (/etc/lynis/default.prf),72,6,0.1985926232584373,1,Normal
+2026-08-25 02:34:09,Plugin 'firewalls' enabled according profile (/etc/lynis/default.prf),69,6,0.22615773688453022,1,Normal
+2026-08-25 02:34:09,Plugin 'forensics' enabled according profile (/etc/lynis/default.prf),69,6,0.22615773688453022,1,Normal
+2026-08-25 02:34:09,Plugin 'hardware' enabled according profile (/etc/lynis/default.prf),68,6,0.23263354300202133,1,Normal
+2026-08-25 02:34:09,Plugin 'intrusion-detection' enabled according profile (/etc/lynis/default.prf),79,6,0.09829408695332253,1,Normal
+2026-08-25 02:34:09,Plugin 'intrusion-prevention' enabled according profile (/etc/lynis/default.prf),80,6,0.0639861572346776,1,Normal
+2026-08-25 02:34:09,Plugin 'kernel' enabled according profile (/etc/lynis/default.prf),66,6,0.2439361243300418,1,Normal
+2026-08-25 02:34:09,Plugin 'malware' enabled according profile (/etc/lynis/default.prf),67,6,0.2379353809477383,1,Normal
+2026-08-25 02:34:09,Plugin 'memory' enabled according profile (/etc/lynis/default.prf),66,6,0.2439361243300418,1,Normal
+2026-08-25 02:34:09,Plugin 'nginx' enabled according profile (/etc/lynis/default.prf),65,6,0.2344082823204549,1,Normal
+2026-08-25 02:34:09,Plugin 'pam' enabled according profile (/etc/lynis/default.prf),63,6,0.2151212763505545,1,Normal
+2026-08-25 02:34:09,Plugin 'processes' enabled according profile (/etc/lynis/default.prf),69,6,0.22615773688453022,1,Normal
+2026-08-25 02:34:09,Plugin 'security-modules' enabled according profile (/etc/lynis/default.prf),76,6,0.1584541937830901,1,Normal
+2026-08-25 02:34:09,Plugin 'software' enabled according profile (/etc/lynis/default.prf),68,6,0.23263354300202133,1,Normal
+2026-08-25 02:34:09,Plugin 'system-integrity' enabled according profile (/etc/lynis/default.prf),76,6,0.1584541937830901,1,Normal
+2026-08-25 02:34:09,Plugin 'systemd' enabled according profile (/etc/lynis/default.prf),67,6,0.2379353809477383,1,Normal
+2026-08-25 02:34:09,Plugin 'users' enabled according profile (/etc/lynis/default.prf),65,6,0.2344082823204549,1,Normal
+2026-08-25 02:34:09,Plugin 'krb5' enabled according profile (/etc/lynis/default.prf),64,6,0.2225827449657768,1,Normal
+2026-08-25 02:34:09,Plugin 'debian' enabled according profile (/etc/lynis/default.prf),66,6,0.2439361243300418,1,Normal
+2026-08-25 02:34:10,Reading profile/configuration /etc/lynis/custom.prf,51,3,0.15374205877613806,1,Normal
+2026-08-25 02:34:10,Set option to default value: NTPD_ROLE --> client,49,8,0.1717467956404451,1,Normal
+2026-08-25 02:34:10,====,4,1,0.0,1,Normal
+2026-08-25 02:34:10,Program version:           3.1.6,32,3,0.17033299996708384,1,Normal
+2026-08-25 02:34:10,Operating system:          Linux,32,3,0.17033299996708384,1,Normal
+2026-08-25 02:34:10,Operating system name:     Ubuntu,33,4,0.16062563092773346,1,Normal
+2026-08-25 02:34:10,Operating system version:  26.04,32,4,0.16787073247415246,1,Normal
+2026-08-25 02:34:10,Kernel version:            7.0.0,32,3,0.17033299996708384,1,Normal
+2026-08-25 02:34:10,Kernel version (full):     7.0.0-14-generic,43,4,0.12481185675345285,1,Normal
+2026-08-25 02:34:10,Hardware platform:         x86_64,33,3,0.14588223250989396,1,Normal
+2026-08-25 02:34:10,-----------------------------------------------------,53,1,0.006207695435110794,1,Normal
+2026-08-25 02:34:10,Hostname:                  Ubuntu,33,2,0.003967609983178244,1,Normal
+2026-08-25 02:34:10,Auditor:                   [Not Specified],42,3,0.12095098290573969,1,Normal
+2026-08-25 02:34:10,Profiles:                  /etc/lynis/default.prf /etc/lynis/custom.prf,71,3,0.010009634593894479,1,Normal
+2026-08-25 02:34:10,Work directory:            /home/omarzg/scripts,47,3,0.13020073852330533,1,Normal
+2026-08-25 02:34:10,Include directory:         /usr/share/lynis/include,51,3,0.15374205877613806,1,Normal
+2026-08-25 02:34:10,Plugin directory:          /etc/lynis/plugins,45,3,0.14342799113971377,1,Normal
+2026-08-25 02:34:10,-----------------------------------------------------,53,1,0.006207695435110794,1,Normal
+2026-08-25 02:34:10,Log file:                  /var/log/lynis.log,45,3,0.14342799113971377,1,Normal
+2026-08-25 02:34:10,Report file:               /var/log/lynis-report.dat,52,3,0.15231837164704576,1,Normal
+2026-08-25 02:34:10,Report version:            1.0,30,3,0.15227051937072827,1,Normal
+2026-08-25 02:34:10,-----------------------------------------------------,53,1,0.006207695435110794,1,Normal
+2026-08-25 02:34:10,Test category:             all,30,3,0.15227051937072827,1,Normal
+2026-08-25 02:34:10,Test group:                all,30,3,0.15227051937072827,1,Normal
+2026-08-25 02:34:10,BusyBox used:              0,28,3,0.08697361322732688,1,Normal
+2026-08-25 02:34:10,====,4,1,0.0,1,Normal
+2026-08-25 02:34:10,Test: Checking for program update...,36,5,0.09213518604993332,1,Normal
+2026-08-25 02:34:10,Upgrade test skipped due profile option set (skip_upgrade_test),63,8,0.21410916347695041,1,Normal
+2026-08-25 02:34:10,Current installed version  : 316,32,5,0.1123467017800247,1,Normal
+2026-08-25 02:34:10,Latest stable version      : 316,32,5,0.1123467017800247,1,Normal
+2026-08-25 02:34:10,No Lynis update available.,26,4,0.07619446442435007,1,Normal
+2026-08-25 02:34:10,====,4,1,0.0,1,Normal
+2026-08-25 02:34:10,Checking permissions of /usr/share/lynis/include/binaries,57,4,0.10718130525636627,1,Normal
+2026-08-25 02:34:10,File permissions are OK,23,4,0.06271533046837585,1,Normal
+2026-08-25 02:34:10,====,4,1,0.0,1,Normal
+2026-08-25 02:34:10,Action: Performing tests from category: System tools,52,7,0.15062436139990165,1,Normal
+2026-08-25 02:34:10,Start scanning for available audit binaries and tools...,56,8,0.23951561224199536,1,Normal
+2026-08-25 02:34:10,====,4,1,0.0,1,Normal
+2026-08-25 02:34:10,Performing test ID CORE-1000 (Check all system binaries),56,8,0.23951561224199536,1,Normal
+2026-08-25 02:34:10,Status: Starting binary scan...,31,4,0.14647478094224303,1,Normal
+2026-08-25 02:34:10,Test: Checking binaries in directory /snap/bin,46,6,0.14694634370936593,1,Normal
+2026-08-25 02:34:10,Directory /snap/bin exists. Starting directory scanning...,58,6,0.19199466379840852,1,Normal
+2026-08-25 02:34:10,Test: Checking binaries in directory /bin,41,6,0.1535675542229376,1,Normal
+2026-08-25 02:34:10,"Result: directory exists, but is actually a symlink",51,8,0.20523791225739474,1,Normal
+2026-08-25 02:34:10,Action: checking symlink for file /bin,38,6,0.11304087208245017,1,Normal
+2026-08-25 02:34:10,Setting temporary readlinkbinary variable,41,4,0.14276497794156223,1,Normal
+2026-08-25 02:34:10,Note: Using real readlink binary to determine symlink on /bin,61,10,0.11323703673992835,1,Normal
+2026-08-25 02:34:10,Result: readlink shows /usr/bin as output,41,6,0.1535675542229376,1,Normal
+2026-08-25 02:34:10,"Result: symlink found, pointing to directory /usr/bin",53,7,0.1521523352544532,1,Normal
+2026-08-25 02:34:10,Result: found the path behind this symlink (/bin --> /usr/bin),62,10,0.1170936360333481,1,Normal
+2026-08-25 02:34:10,Directory /usr/bin exists. Starting directory scanning...,57,6,0.19049947499216136,1,Normal
+2026-08-25 02:34:10,Found known binary: apt (package manager) - /usr/bin/apt,56,8,0.23951561224199536,1,Normal
+2026-08-25 02:34:10,Found known binary: as (compiler) - /usr/bin/as,47,7,0.11313260903120326,1,Normal
+2026-08-25 02:34:10,Found known binary: awk (string tool) - /usr/bin/awk,52,8,0.21245674174881446,1,Normal
+2026-08-25 02:34:10,Found known binary: base64 (encoding tool) - /usr/bin/base64,60,8,0.23104290227410346,1,Normal
+2026-08-25 02:34:10,Found known binary: cat (generic file handling) - /usr/bin/cat,62,9,0.18549504804054168,1,Normal
+2026-08-25 02:34:10,Found known binary: comm (file compare) - /usr/bin/comm,55,8,0.23430657424113138,1,Normal
+2026-08-25 02:34:10,"Found known binary: curl (browser, download utility) - /usr/bin/curl",68,9,0.18827834978734165,1,Normal
+2026-08-25 02:34:10,Found known binary: cut (text stream editor) - /usr/bin/cut,59,9,0.18921901680660697,1,Normal
+2026-08-25 02:34:10,Found known binary: dig (network/dns tool) - /usr/bin/dig,57,8,0.2364541816898365,1,Normal
+2026-08-25 02:34:10,Found known binary: dnsdomainname (DNS domain) - /usr/bin/dnsdomainname,71,8,0.1979839108119888,1,Normal
+2026-08-25 02:34:10,Found known binary: domainname (NIS domain) - /usr/bin/domainname,65,8,0.20669679176313432,1,Normal
+2026-08-25 02:34:10,Found known binary: dpkg (package management) - /usr/bin/dpkg,61,8,0.22600865879322513,1,Normal
+2026-08-25 02:34:10,Found known binary: file (file type detection) - /usr/bin/file,62,9,0.18549504804054168,1,Normal
+2026-08-25 02:34:10,Found known binary: find (search tool) - /usr/bin/find,54,8,0.24050388735294514,1,Normal
+2026-08-25 02:34:10,Found known binary: getent (query tool for name service switch libraries) - /usr/bin/getent,91,13,-0.10571373654686866,-1,Anomalía
+2026-08-25 02:34:10,Found known binary: grep (text search) - /usr/bin/grep,54,8,0.24050388735294514,1,Normal
+2026-08-25 02:34:10,Found known binary: gzip (compressing utility) - /usr/bin/gzip,62,8,0.22553864580352706,1,Normal
+2026-08-25 02:34:10,Found known binary: head (text filter) - /usr/bin/head,54,8,0.24050388735294514,1,Normal
+2026-08-25 02:34:10,Found known binary: ip (IP configuration) - /usr/bin/ip,55,8,0.23430657424113138,1,Normal
+2026-08-25 02:34:10,Found known binary: journalctl (systemd journal) - /usr/bin/journalctl,70,8,0.19474584187305366,1,Normal
+2026-08-25 02:34:10,Found known binary: ls (file listing) - /usr/bin/ls,51,8,0.20523791225739474,1,Normal
+2026-08-25 02:34:10,Found known binary: lsattr (file attributes) - /usr/bin/lsattr,62,8,0.22553864580352706,1,Normal
+2026-08-25 02:34:10,Found known binary: lsblk (block devices) - /usr/bin/lsblk,58,8,0.2380223845109702,1,Normal
+2026-08-25 02:34:10,Found known binary: lsmod (kernel modules) - /usr/bin/lsmod,59,8,0.23742788064282638,1,Normal
+2026-08-25 02:34:10,Found known binary: lsof (open files) - /usr/bin/lsof,53,8,0.2212701492248803,1,Normal
+2026-08-25 02:34:11,Note: added -K i to ignore tasks on Linux,41,9,0.004119327870583889,1,Normal
+2026-08-25 02:34:11,Found known binary: md5sum (hash tool) - /usr/bin/md5sum,56,8,0.23951561224199536,1,Normal
+2026-08-25 02:34:11,Found known binary: mount (disk utility) - /usr/bin/mount,57,8,0.2364541816898365,1,Normal
+2026-08-25 02:34:11,Found /usr/bin/openssl (version 3.5.5),38,4,0.14185062790666036,1,Normal
+2026-08-25 02:34:11,Found /usr/bin/perl (version 5.40.1),36,4,0.16138674328336122,1,Normal
+2026-08-25 02:34:11,Found known binary: pgrep (search in process list) - /usr/bin/pgrep,67,10,0.1024147723770451,1,Normal
+2026-08-25 02:34:11,Found known binary: ps (process listing) - /usr/bin/ps,54,8,0.24050388735294514,1,Normal
+2026-08-25 02:34:11,Found known binary: python3 (programming language interpreter) - /usr/bin/python3 (version 3.14.4),98,11,-0.06946751182347366,-1,Anomalía
+2026-08-25 02:34:11,Found known binary: readlink (follows symlinks) - /usr/bin/readlink,67,8,0.20091844922599866,1,Normal
+2026-08-25 02:34:11,Found known binary: resolvectl (systemd-resolved DNS resolver manager) - /usr/bin/resolvectl,92,10,0.022118150746597842,1,Normal
+2026-08-25 02:34:11,Found known binary: sed (text stream editor) - /usr/bin/sed,59,9,0.18921901680660697,1,Normal
+2026-08-25 02:34:11,Found known binary: sha1/sha1sum/shasum (crypto hashing) - /usr/bin/sha1sum,75,8,0.15221204423806944,1,Normal
+2026-08-25 02:34:11,Found known binary: sha256/sha256sum (crypto hashing) - /usr/bin/sha256sum,74,8,0.18167490657123198,1,Normal
+2026-08-25 02:34:11,Found known binary: sha1/sha1sum/shasum (crypto hashing) - /usr/bin/shasum,74,8,0.18167490657123198,1,Normal
+2026-08-25 02:34:11,Found known binary: sort (sort data streams) - /usr/bin/sort,60,9,0.18150641850536664,1,Normal
+2026-08-25 02:34:11,Found known binary: ss (show sockets) - /usr/bin/ss,51,8,0.20523791225739474,1,Normal
+2026-08-25 02:34:11,Found known binary: ssh-keyscan (scanner for SSH keys) - /usr/bin/ssh-keyscan,77,10,0.07490912455400633,1,Normal
+2026-08-25 02:34:11,Found known binary: stat (file information) - /usr/bin/stat,59,8,0.23742788064282638,1,Normal
+2026-08-25 02:34:11,Found known binary: strings (text strings search) - /usr/bin/strings,68,9,0.18827834978734165,1,Normal
+2026-08-25 02:34:11,Found known binary: systemctl (client to systemd) - /usr/bin/systemctl,70,9,0.1746687353398516,1,Normal
+2026-08-25 02:34:11,Found known binary: systemd-analyze (systemd service analysis tool) - /usr/bin/systemd-analyze,94,10,0.0061145391009623795,1,Normal
+2026-08-25 02:34:11,Found known binary: tail (text filter) - /usr/bin/tail,54,8,0.24050388735294514,1,Normal
+2026-08-25 02:34:11,Found known binary: timedatectl (timedate client) - /usr/bin/timedatectl,72,8,0.18713109695836627,1,Normal
+2026-08-25 02:34:11,Found known binary: tr (text transformation) - /usr/bin/tr,58,8,0.2380223845109702,1,Normal
+2026-08-25 02:34:11,Found known binary: uname (operating system details) - /usr/bin/uname,69,9,0.17864353230084684,1,Normal
+2026-08-25 02:34:11,Found known binary: uniq (text manipulation utility) - /usr/bin/uniq,68,9,0.18827834978734165,1,Normal
+2026-08-25 02:34:11,Found known binary: wc (word count) - /usr/bin/wc,49,8,0.1717467956404451,1,Normal
+2026-08-25 02:34:11,Found /usr/bin/wget (version 1.25.0),36,4,0.16138674328336122,1,Normal
+2026-08-25 02:34:11,Found known binary: xargs (command output redirection) - /usr/bin/xargs,71,9,0.16007618259881423,1,Normal
+2026-08-25 02:34:11,Found known binary: zgrep (text search for compressed files) - /usr/bin/zgrep,77,11,0.010603309633054891,1,Normal
